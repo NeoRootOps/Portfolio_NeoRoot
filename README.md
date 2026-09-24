@@ -21,17 +21,17 @@ Passionné par l'administration système, le réseau et la sécurité opération
 À travers mes projets personnels et mon lab, je travaille sur le diagnostic, l'automatisation et le durcissement d'infrastructures.
 Je partage ici mes travaux afin de consolider mes compétences et progresser vers une expertise concrète en administration et cybersécurité.
 
+<p align="center">
+<img src="https://img.shields.io/badge/Systems%20&%20Networks-blue?logo=serverfault&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-red?logo=hackaday&logoColor=white"/>
+</p>
+
 ### 🎓 Formations & Apprentissages
 - **Titre Professionnel Technicien Supérieur Systèmes et Réseaux (TSSR)**
 - [**Hacking Éthique : Le cours complet**](https://cyberini.com/cours/) — Cyberini
 - [**Mooc Cyberini**](https://cyberini.com/cours/)
 
 🎯 <em>**Mon objectif est de mettre mes compétences au service d'une équipe informatique et de continuer à développer mon expertise technique.**</em>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Systems%20&%20Networks-blue?logo=serverfault&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-red?logo=hackaday&logoColor=white"/>
-</p>
 
 ---
 
