@@ -29,9 +29,9 @@ Je partage ici mes travaux afin de consolider mes compétences et progresser ver
 ---
 
 ### 🎓 Formations & Apprentissages
-- **Titre Professionnel Technicien Supérieur Systèmes et Réseaux (TSSR)**
+- **Titre Professionnel Technicien Supérieur Systèmes et Réseaux (TSSR)** — 
 - [**Hacking Éthique : Le cours complet**](https://cyberini.com/cours/) — Cyberini
-- [**Mooc Cyberini**](https://cyberini.com/cours/)
+- [**Mooc Cyberini**](https://cyberini.com/cours/) — Cyberini
 
 🎯 <em>**Mon objectif est de mettre mes compétences au service d'une équipe informatique et de continuer à développer mon expertise technique.**</em>
 
