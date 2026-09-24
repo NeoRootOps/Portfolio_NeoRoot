@@ -26,6 +26,8 @@ Je partage ici mes travaux afin de consolider mes compétences et progresser ver
 <img src="https://img.shields.io/badge/Cybersecurity-red?logo=hackaday&logoColor=white"/>
 </p>
 
+---
+
 ### 🎓 Formations & Apprentissages
 - **Titre Professionnel Technicien Supérieur Systèmes et Réseaux (TSSR)**
 - [**Hacking Éthique : Le cours complet**](https://cyberini.com/cours/) — Cyberini
