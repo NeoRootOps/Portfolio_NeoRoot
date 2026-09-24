@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/NeoRootOps?style=social"/>
-  <img src="https://img.shields.io/github/stars/NeoRootOps/Portfolio_NeoRoot/readme.md?style=social"/>
-  <img src="https://img.shields.io/github/last-commit/NeoRootOps/Portfolio_NeoRoot?style=social"/>
+  <img src="https://img.shields.io/github/stars/NeoRootOps/Portfolio_NeoRoot/?style=social"/>
+  <img src="https://img.shields.io/github/last-commit/NeoRootOps/Portfolio_NeoRoot/?style=social"/>
 </p>
 
 <p align="center">
