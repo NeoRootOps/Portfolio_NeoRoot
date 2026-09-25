@@ -1,6 +1,6 @@
 <div align="center">
   
-# **NeoRoot** </br> **Technicien Supérieur Systèmes & Réseaux** </br> <img src="https://img.shields.io/badge/Portfolio-⚠️ En_construction 🚧-blue?logo=github"/>
+# **Eddie** </br> **Technicien Supérieur Systèmes & Réseaux** </br> <img src="https://img.shields.io/badge/Portfolio-⚠️ En_construction 🚧-blue?logo=github"/>
 
 </div>
 
