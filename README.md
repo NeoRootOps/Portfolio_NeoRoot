@@ -1,8 +1,19 @@
-<div align="center">
-  
-# **Eddie Sudan** </br> **Technicien Supérieur Systèmes & Réseaux** </br> [![Localisation](https://img.shields.io/badge/📍Bordeaux,_Gironde-France-6c6c6c?style=flat-square)](https://github.com/NeoRootOps) </br> <img src="https://img.shields.io/badge/Portfolio-⚠️ En_construction 🚧-blue?logo=github"/>
+<!-- ===== HEADER ===== -->
+
+<div style="background:#0e0e0e; padding:22px; border-radius:10px;">
+
+  <h1 style="color:#00ffcc; margin:0; font-size:32px;">
+    Eddie Sudan
+  </h1>
+
+  <p style="color:#00ffcc; margin:4px 0 0 0; font-size:18px;">
+    Technicien Supérieur Systèmes & Réseaux
+  </p>
 
 </div>
+
+[![Localisation](https://img.shields.io/badge/📍Saint%20Jean%20d%27Illac,_Gironde-France-2C5282?style=flat-square)](https://github.com/NeoRootOps)</br>
+<img src="https://img.shields.io/badge/Portfolio-⚠️ En_construction 🚧-blue?logo=github"/> 
 
 ---
 
