@@ -8,16 +8,9 @@
 </br>
 
 ## Présentation
-Technicien Supérieur Systèmes et Réseaux, passionné par les environnements : 
-* Windows
-* Linux
-* MacOs
-* l’automatisation
-* la gestion d’infrastructures
-* la cybersécurité
-
-Je conçois, documente et maintiens des environnements techniques avec une approche méthodique, claire et orientée optimisation.
-Ce GitHub regroupe mes projets, scripts, documentations et travaux personnels liés à mon homelab et à mes expérimentations techniques.
+Technicien Supérieur Systèmes et Réseaux, je m’attache à structurer, optimiser et documenter chaque projet technique sur lequel je travaille.
+Mon homelab me permet d’expérimenter, tester et renforcer mes compétences au quotidien. </br>
+Ce GitHub regroupe mes projets, scripts et travaux personnels dans une démarche d’amélioration continue. </br>
 
 <p align="center">
 <em><b>Mon objectif est de renforcer mes acquis techniques et de bâtir une solide expertise dans ce domaine en constante évolution.</b></em>
@@ -25,7 +18,7 @@ Ce GitHub regroupe mes projets, scripts, documentations et travaux personnels li
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Windows-005bbb?logo=windows&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Scripting-PowerShell-2C2D72?logo=powershell&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Cybersécurité-darkblue?logo=hackaday&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Zero%20Trust-red?logo=shield&logoColor=white"/>
@@ -33,25 +26,28 @@ Ce GitHub regroupe mes projets, scripts, documentations et travaux personnels li
 
 ---
 
-### 2. Formations & Certifications
+## Formations & Certifications
 - [**Technicien Supérieur Systèmes et Réseaux (TSSR)**](https://site-informatique.info/course/tssr/)
 - [**Hacking Éthique Le cours complet**](https://cyberini.com/cours/)
 - [**Mooc Cyberini**](https://cyberini.com/cours/)
 
 ---
 
-## 2. Domaines de compétences
-- Administration Windows / Linux  
-- Réseaux (TCP/IP, VLAN, DHCP, DNS, VPN)
-- Automatisation (PowerShell, Bash)  
-- Sécurité (Debian, durcissement)  
-- Virtualisation (Proxmox VE, VMware, Hyper-V)  
-- Supervision & Monitoring (Nagios, Zabbix)  
-- Documentation technique structurée (Markdown)
+## Domaines de compétences
+
+| Catégorie        | Compétences |
+|------------------|-------------|
+| **Systèmes**     | Windows, Linux, MacOS |
+| **Réseaux**      | TCP/IP, VLAN, DHCP, DHCP Relay, DNS, VPN, PfSense, Cisco |
+| **Automatisation** | PowerShell, Bash |
+| **Sécurité**     | Durcissement, Analyse |
+| **Virtualisation** | Proxmox VE, VMware, Hyper‑V |
+| **Supervision**  | Nagios, Zabbix |
+| **Documentation** | Markdown structuré, Word, PDF |
 
 ---
 
-## 3. Homelab
+## Homelab
 Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
 
 ### Contenu du homelab :
@@ -64,7 +60,7 @@ Documentation complète disponible dans le dossier **/Homelab**.
 
 ---
 
-## 4. Projets
+## Projets
 Liste des projets techniques disponibles sur ce GitHub.
 
 ### Exemples :
@@ -90,7 +86,7 @@ Chaque projet contient :
 
 ---
 
-## 5. Scripts
+## Scripts
 Scripts PowerShell et Bash utilisés dans mes environnements.
 
 ### PowerShell
@@ -108,7 +104,7 @@ Scripts complets disponibles dans **/Scripts**.
 
 ---
 
-## 6. Objectifs & Roadmap
+## Objectifs & Roadmap
 - Approfondissement de l’automatisation PowerShell  
 - Mise en place d’un monitoring avancé  
 - Déploiement d’un cluster Proxmox  
@@ -117,13 +113,13 @@ Scripts complets disponibles dans **/Scripts**.
 
 ---
 
-## 7. Contact
+## Contact
 - LinkedIn  
 - Email professionnel  
 - Portfolio (si applicable)
 
 ---
 
-## 8. Notes
+## Notes
 Ce GitHub est en évolution constante.  
 Chaque projet est documenté de manière claire, hiérarchisée et orientée production.
