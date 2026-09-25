@@ -1,7 +1,8 @@
 <div align="center">
   
 # NeoRoot 
-**Technicien Supérieur Systèmes & Réseaux**
+
+# **Technicien Supérieur Systèmes & Réseaux**
 
 <img src="https://img.shields.io/badge/Portfolio-⚠️ En construction 🚧-blue?logo=github"/>
 
