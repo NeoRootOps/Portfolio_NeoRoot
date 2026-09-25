@@ -1,6 +1,5 @@
 <div align="center">
 # NeoRoot – Technicien Supérieur Systèmes & Réseaux
-</p>
 </div>
 
 <p align="center">
