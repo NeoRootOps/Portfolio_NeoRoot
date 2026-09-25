@@ -5,6 +5,11 @@
 # **Technicien Supérieur Systèmes & Réseaux**
 
 <img src="https://img.shields.io/badge/Portfolio-⚠️ En construction 🚧-blue?logo=github"/>
+<img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Scripting-PowerShell-2C2D72?logo=powershell&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Cybersécurité-darkblue?logo=hackaday&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Zero%20Trust-red?logo=shield&logoColor=white"/>
 
 </div>
 
@@ -34,11 +39,6 @@ Ce GitHub regroupe mes projets, scripts, documentations et travaux personnels li
 - Supervision & Monitoring (Grafana, Prometheus)  
 - Documentation technique structurée (Markdown)
 
-<img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Scripting-PowerShell-2C2D72?logo=powershell&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Cybersécurité-darkblue?logo=hackaday&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Zero%20Trust-red?logo=shield&logoColor=white"/>
 ---
 
 ## 3. Homelab
