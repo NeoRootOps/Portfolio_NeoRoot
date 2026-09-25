@@ -41,9 +41,9 @@ Ce GitHub regroupe mes projets, scripts, documentations et travaux personnels li
 - Administration Windows / Linux  
 - Réseaux (TCP/IP, VLAN, DHCP, DNS, VPN)
 - Automatisation (PowerShell, Bash)  
-- Sécurité (Kali, durcissement, audit)  
-- Virtualisation (Proxmox, VMware, VirtualBox)  
-- Supervision & Monitoring (Grafana, Prometheus)  
+- Sécurité (Debian, durcissement)  
+- Virtualisation (Proxmox VE, VMware, Hyper-V)  
+- Supervision & Monitoring (Nagios, Zabbix)  
 - Documentation technique structurée (Markdown)
 
 ---
@@ -52,10 +52,9 @@ Ce GitHub regroupe mes projets, scripts, documentations et travaux personnels li
 Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
 
 ### Contenu du homelab :
-- Serveurs Debian / Windows Server  
-- Services réseau (DHCP, DNS, NTP, VPN)  
-- Conteneurs Docker  
-- Monitoring centralisé  
+- Serveurs : Windows Server  
+- Services réseau : PfSense (DHCP, DNS, NTP, VPN, DHCP Relay)  
+- Virtualisation : Proxmox VE
 - Environnements de test pour scripts PowerShell / Bash
 
 Documentation complète disponible dans le dossier **/Homelab**.
