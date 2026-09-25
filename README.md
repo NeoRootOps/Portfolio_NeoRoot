@@ -1,8 +1,7 @@
 <div align="center">
   
-# **NeoRoot** 
-
-# **Technicien Supérieur Systèmes & Réseaux**
+# **NeoRoot**\
+**Technicien Supérieur Systèmes & Réseaux**
 
 <img src="https://img.shields.io/badge/Portfolio-⚠️ En construction 🚧-blue?logo=github"/>
 <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
