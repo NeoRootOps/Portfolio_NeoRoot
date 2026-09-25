@@ -10,6 +10,8 @@
 Technicien Supérieur Systèmes et Réseaux (TSSR), passionné par les environnements Windows, Linux, la cybersécurité, l’automatisation et la gestion d’infrastructures.  
 Je conçois, documente et maintiens des environnements techniques avec une approche méthodique, claire et orientée optimisation.
 
+---
+
 ### 🎓 Formations & Certifications
 - [**Technicien Supérieur Systèmes et Réseaux (TSSR)**](https://site-informatique.info/course/tssr/)
 - [**Hacking Éthique Le cours complet**](https://cyberini.com/cours/)
