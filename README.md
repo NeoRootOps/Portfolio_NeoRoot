@@ -17,7 +17,9 @@ Technicien Supérieur Systèmes et Réseaux, passionné par les environnements :
 * la gestion d’infrastructures
 * la cybersécurité
 
-Je conçois, documente et maintiens des environnements techniques avec une approche méthodique, claire et orientée optimisation.
+Je conçois, documente et maintiens des environnements techniques avec une approche méthodique, claire et orientée optimisation.  
+Ce GitHub regroupe mes projets, scripts, documentations et travaux personnels liés à mon homelab et à mes expérimentations techniques.
+
 
 <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white"/>&nbsp;
@@ -31,8 +33,6 @@ Je conçois, documente et maintiens des environnements techniques avec une appro
 - [**Technicien Supérieur Systèmes et Réseaux (TSSR)**](https://site-informatique.info/course/tssr/)
 - [**Hacking Éthique Le cours complet**](https://cyberini.com/cours/)
 - [**Mooc Cyberini**](https://cyberini.com/cours/)
-
-Ce GitHub regroupe mes projets, scripts, documentations et travaux personnels liés à mon homelab et à mes expérimentations techniques.
 
 ---
 
