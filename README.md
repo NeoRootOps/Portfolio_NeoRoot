@@ -2,21 +2,12 @@
 
 <div align="center">
 
-  <h1 style="color:#e8ffe8">
-    Eddie Sudan <br>
-    Technicien Supérieur Systèmes & Réseaux
- </h1>
-
+# Eddie Sudan </br> Technicien Supérieur Systèmes & Réseaux </br> [![Localisation](https://img.shields.io/badge/📍Saint%20Jean%20d%27Illac,_Gironde-France-blue?style=flat-square)](https://github.com/NeoRootOps) <img src="https://img.shields.io/badge/Portfolio-🚧 En_construction 🚧-blue?logo=github"/> 
 </div>
-
-[![Localisation](https://img.shields.io/badge/📍Saint%20Jean%20d%27Illac,_Gironde-France-2C5282?style=flat-square)](https://github.com/NeoRootOps)</br>
-<img src="https://img.shields.io/badge/Portfolio-⚠️ En_construction 🚧-blue?logo=github"/> 
-
----
 
 </br>
 
-## 1. Présentation
+## Présentation
 Technicien Supérieur Systèmes et Réseaux, passionné par les environnements : 
 * Windows
 * Linux
