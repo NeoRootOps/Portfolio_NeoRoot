@@ -1,6 +1,6 @@
 <div align="center">
   
-# **Eddie Sudan** </br> **Technicien Supérieur Systèmes & Réseaux** </br> <img src="https://img.shields.io/badge/Portfolio-⚠️ En_construction 🚧-blue?logo=github"/>
+# **Eddie Sudan** </br> **Technicien Supérieur Systèmes & Réseaux** </br> [![Localisation](https://img.shields.io/badge/📍Bordeaux,_Gironde-France-6c6c6c?style=flat-square)](https://github.com/NeoRootOps) </br> <img src="https://img.shields.io/badge/Portfolio-⚠️ En_construction 🚧-blue?logo=github"/>
 
 </div>
 
