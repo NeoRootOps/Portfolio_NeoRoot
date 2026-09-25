@@ -3,11 +3,6 @@
 # **NeoRoot** </br> **Technicien Supérieur Systèmes & Réseaux**
 
 <img src="https://img.shields.io/badge/Portfolio-⚠️ En construction 🚧-blue?logo=github"/>
-<img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Scripting-PowerShell-2C2D72?logo=powershell&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Cybersécurité-darkblue?logo=hackaday&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Zero%20Trust-red?logo=shield&logoColor=white"/>
 
 </div>
 
@@ -16,6 +11,12 @@
 ## 1. Présentation
 Technicien Supérieur Systèmes et Réseaux (TSSR), passionné par les environnements Windows, Linux, la cybersécurité, l’automatisation et la gestion d’infrastructures.  
 Je conçois, documente et maintiens des environnements techniques avec une approche méthodique, claire et orientée optimisation.
+
+<img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Windows-blue?logo=windows&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Scripting-PowerShell-2C2D72?logo=powershell&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Cybersécurité-darkblue?logo=hackaday&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Zero%20Trust-red?logo=shield&logoColor=white"/>
 
 ---
 
