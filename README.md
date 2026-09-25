@@ -1,14 +1,11 @@
 <!-- ===== HEADER ===== -->
 
-<div style="background:#0e0e0e; padding:22px; border-radius:10px;">
+<div align="center">
 
-  <h1 style="color:#00ffcc; margin:0; font-size:32px;">
-    Eddie Sudan
-  </h1>
-
-  <p style="color:#00ffcc; margin:4px 0 0 0; font-size:18px;">
+  <h1 style="color:#e8ffe8">
+    Eddie Sudan <br>
     Technicien Supérieur Systèmes & Réseaux
-  </p>
+ </h1>
 
 </div>
 
