@@ -10,7 +10,8 @@
 </br>
 
 ## 1. Présentation
-Technicien Supérieur Systèmes et Réseaux, passionné par les environnements Windows, Linux, la cybersécurité, l’automatisation et la gestion d’infrastructures. 
+Technicien Supérieur Systèmes et Réseaux, passionné par les environnements Windows, Linux, l’automatisation, la gestion d’infrastructures et la cybersécurité.</br>
+
 Je conçois, documente et maintiens des environnements techniques avec une approche méthodique, claire et orientée optimisation.
 
 <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
