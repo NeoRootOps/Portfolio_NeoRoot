@@ -1,5 +1,5 @@
 <p align="center">
-# NeoRoot – Technicien Supérieur Systèmes & Réseaux
+NeoRoot – Technicien Supérieur Systèmes & Réseaux
 </p>
 
 <p align="center">
