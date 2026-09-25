@@ -10,7 +10,7 @@
 </br>
 
 ## 1. Présentation
-Technicien Supérieur Systèmes et Réseaux (TSSR), passionné par les environnements Windows, Linux, la cybersécurité, l’automatisation et la gestion d’infrastructures.  
+Technicien Supérieur Systèmes et Réseaux, passionné par les environnements Windows, Linux, la cybersécurité, l’automatisation et la gestion d’infrastructures. 
 Je conçois, documente et maintiens des environnements techniques avec une approche méthodique, claire et orientée optimisation.
 
 <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
