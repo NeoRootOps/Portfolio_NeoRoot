@@ -10,11 +10,12 @@
 
 ## 1. Présentation
 Technicien Supérieur Systèmes et Réseaux, passionné par les environnements : 
-- Windows
-- Linux
-- l’automatisation
-- la gestion d’infrastructures
-- la cybersécurité
+* Windows
+* Linux
+* MacOs
+* l’automatisation
+* la gestion d’infrastructures
+* la cybersécurité
 
 Je conçois, documente et maintiens des environnements techniques avec une approche méthodique, claire et orientée optimisation.
 
@@ -26,7 +27,7 @@ Je conçois, documente et maintiens des environnements techniques avec une appro
 
 ---
 
-### 🎓 Formations & Certifications
+### 2. Formations & Certifications
 - [**Technicien Supérieur Systèmes et Réseaux (TSSR)**](https://site-informatique.info/course/tssr/)
 - [**Hacking Éthique Le cours complet**](https://cyberini.com/cours/)
 - [**Mooc Cyberini**](https://cyberini.com/cours/)
