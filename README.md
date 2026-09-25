@@ -1,11 +1,11 @@
 <div align="center">
+  
 # NeoRoot 
 **Technicien Supérieur Systèmes & Réseaux**
-</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Portfolio-⚠️ En construction 🚧-blue?logo=github"/>
-</p>
+<img src="https://img.shields.io/badge/Portfolio-⚠️ En construction 🚧-blue?logo=github"/>
+
+</div>
 
 ## 1. Présentation
 Technicien Supérieur Systèmes et Réseaux (TSSR), passionné par les environnements Windows, Linux, la cybersécurité, l’automatisation et la gestion d’infrastructures.  
