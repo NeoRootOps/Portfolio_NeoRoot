@@ -7,7 +7,6 @@
 ---
 
 </br>
-</br>
 
 ## 1. Présentation
 Technicien Supérieur Systèmes et Réseaux, passionné par les environnements Windows, Linux, l’automatisation, la gestion d’infrastructures et la cybersécurité.
