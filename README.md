@@ -8,55 +8,94 @@
 </br>
 
 ## Présentation
-Technicien Supérieur Systèmes et Réseaux, je m’attache à structurer, optimiser et documenter chaque projet technique sur lequel je travaille.
-Mon homelab me permet d’expérimenter, tester et renforcer mes compétences au quotidien. </br>
-Ce GitHub regroupe mes projets, scripts et travaux personnels dans une démarche d’amélioration continue. </br>
+Bonjour, méthodique et structuré, je m’attache à optimiser et documenter chaque projet technique sur lequel je travaille. </br>
+Mon homelab me permet d’expérimenter, tester et renforcer mes compétences au quotidien, dans une démarche d’apprentissage continue.
+Ce GitHub regroupe mes projets, scripts et travaux personnels, reflet d’une progression constante et d’un intérêt marqué pour les environnements techniques. 
+
+</br>
 
 <p align="center">
-<em><b>Mon objectif est de renforcer mes acquis techniques et de bâtir une solide expertise dans ce domaine en constante évolution.</b></em>
+<em><b>Mon objectif est de consolider mes acquis et de développer une expertise solide dans un domaine en évolution permanente.</b></em>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Windows-005bbb?logo=windows&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Scripting-PowerShell-2C2D72?logo=powershell&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Cybersécurité-darkblue?logo=hackaday&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Scripting-PowerShell-2C5282?logo=powershell&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Cybersécurité-red?logo=hackaday&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Zero%20Trust-red?logo=shield&logoColor=white"/>
 </p>
 
 ---
+</br>
 
 ## Formations & Certifications
-- [**Technicien Supérieur Systèmes et Réseaux (TSSR)**](https://site-informatique.info/course/tssr/)
-- [**Hacking Éthique Le cours complet**](https://cyberini.com/cours/)
-- [**Mooc Cyberini**](https://cyberini.com/cours/)
+
+Voici les formations qui ont structuré mon parcours et renforcé mes compétences techniques :
+
+- **Technicien Supérieur Systèmes et Réseaux (TSSR)**  
+  Apprendre l’administration, le réseau et la sécurité sur environnements Windows et Linux.
+
+- **Hacking Éthique – Le cours complet**  
+  Approfondir les tests d’intrusion et les fondamentaux de la cybersécurité.
+
+- **Mooc Cyberini**  
+  Comprendre les bonnes pratiques de sécurité et la gestion des risques cyber.
+
+  
+</br>
 
 ---
+
+</br>
 
 ## Domaines de compétences
 
-| Catégorie        | Compétences |
-|------------------|-------------|
-| **Systèmes**     | Windows, Linux, MacOS |
-| **Réseaux**      | TCP/IP, VLAN, DHCP, DHCP Relay, DNS, VPN, PfSense, Cisco |
-| **Automatisation** | PowerShell, Bash |
-| **Sécurité**     | Durcissement, Analyse |
-| **Virtualisation** | Proxmox VE, VMware, Hyper‑V |
-| **Supervision**  | Nagios, Zabbix |
-| **Documentation** | Markdown structuré, Word, PDF |
+**Support, Ticketing & Prise en main à distance :**  
+GLPI • OCS Inventory • Gestion des incidents (SLA)  
+RustDesk • TeamViewer • RDS
+
+**Administration Systèmes :**  
+Active Directory (AD DS • GPO • DNS • DHCP)  
+Windows Server 2022 • Windows 10/11  
+Linux (Debian • LMDE • Kali • Ubuntu)  
+MacOS
+
+**Réseau, Sécurité & Virtualisation :**  
+PfSense (VPN • pare-feu • NAT • VLAN • DHCP Relay)  
+Proxmox VE • VMware ESXI • Hyper‑V  
+Switchs & Routeurs Cisco
+
+**Automatisation & Scripting :**  
+PowerShell (création de comptes AD • automatisation de configurations)  
+Bash • CMD
+
+**Supervision & Déploiement :**  
+WDS / MDT • Masterisation de postes / Déploiement  
+Nagios • Zabbix
+
+**Documentation :**  
+Markdown structuré • Word • Powerpoint • PDF
+
+</br>
 
 ---
+
+</br>
 
 ## Homelab
 Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
 
 ### Contenu du homelab :
-- Serveurs : Windows Server  
-- Services réseau : PfSense (DHCP, DNS, NTP, VPN, DHCP Relay)  
 - Virtualisation : Proxmox VE
-- Environnements de test pour scripts PowerShell / Bash
+- Serveurs : Windows Server 2022 (DHCP, DNS)
+- Serveur de fichiers et de stockage  
+- Services réseau : PfSense (VLAN 802.1Q, DHCP Relay)
 
-Documentation complète disponible dans le dossier **/Homelab**.
+Documentation complète disponible dans le dossier :
+📁 [`Homelab`](https://github.com/NeoRootOps/Portfolio_NeoRoot/Homelab)
+
+</br>
 
 ---
 
