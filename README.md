@@ -62,7 +62,7 @@ Linux (Debian • LMDE • Kali • Ubuntu)
 MacOS
 
 **Réseau, Sécurité & Virtualisation :**  
-PfSense (VPN • pare-feu • NAT • VLAN • DHCP Relay)  
+PfSense (VPN • NAT • VLAN • DHCP Relay)  
 Proxmox VE • VMware ESXI • Hyper‑V  
 Switchs & Routeurs Cisco
 
