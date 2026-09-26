@@ -8,7 +8,7 @@
 </br>
 
 ## Présentation
-Bonjour, méthodique et structuré, je m’attache à optimiser et documenter chaque projet technique sur lequel je travaille. </br>
+Bonjour, méthodique et structuré, je m’attache à optimiser et documenter chaque projet technique sur lequel je travaille.
 Mon homelab me permet d’expérimenter, tester et renforcer mes compétences au quotidien, dans une démarche d’apprentissage continue.
 Ce GitHub regroupe mes projets, scripts et travaux personnels, reflet d’une progression constante et d’un intérêt marqué pour les environnements techniques. 
 
