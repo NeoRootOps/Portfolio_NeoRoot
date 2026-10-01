@@ -157,6 +157,6 @@ Scripts complets disponibles dans **/Scripts**.
 
 ---
 
-## Notes
+>## Notes
 Ce GitHub est en évolution constante.  
 Chaque projet est documenté de manière claire, hiérarchisée et orientée production.
