@@ -1,6 +1,6 @@
-📦 FICHE DE DIAGNOSTIC RÉSEAU – MODÈLE OSI (PLRTSPA)
+# 📦 FICHE DE DIAGNOSTIC RÉSEAU – MODÈLE OSI (PLRTSPA)
 
-# 🧩 Fiche de diagnostic réseau – Modèle OSI (PLRTSPA)
+## 🧩 Fiche de diagnostic réseau – Modèle OSI (PLRTSPA)
 
 | Couche        | Vérifications essentielles                                                                  | Commandes / Outils                                    | Statut  |
 |---------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------|---------|
@@ -52,7 +52,7 @@
 
 ---
 
-## 🧠 Interprétation rapide
+## Interprétation rapide
 - **Physique NOK** → câble / Wi-Fi / carte réseau  
 - **Liaison NOK** → switch / ARP / MAC  
 - **Réseau NOK** → IP / passerelle / DHCP  
