@@ -10,10 +10,7 @@
 >## Présentation
 🔹 Homelab • Systèmes • Réseaux • Cybersécurité
 
-J'expérimente, documente et automatise différents projets techniques afin de développer mes compétences et partager mes réalisations.
-
-</br>
-
+J'expérimente, documente et automatise différents projets techniques afin de développer mes compétences et partager mes réalisations.</br>
 <p align="center">
 <em><b>Mon objectif est de consolider mes acquis et de développer une expertise solide dans un domaine en évolution permanente.</b></em>
 </p>
