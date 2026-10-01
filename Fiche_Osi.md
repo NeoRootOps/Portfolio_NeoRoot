@@ -1,6 +1,6 @@
 # 📦 FICHE DE DIAGNOSTIC RÉSEAU – MODÈLE OSI (PLRTSPA)
 
-## 🧩 Fiche de diagnostic réseau – Modèle OSI (PLRTSPA)
+</br>
 
 | Couche        | Vérifications essentielles                                                                  | Commandes / Outils                                    | Statut  |
 |---------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------|---------|
