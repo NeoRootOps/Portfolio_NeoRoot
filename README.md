@@ -7,6 +7,7 @@
 
 </br>
 
+
 >## Présentation
 🔹 Homelab 🔹 Systèmes 🔹 Réseaux 🔹 Cybersécurité
 
@@ -39,10 +40,6 @@ Voici les formations qui ont structuré mon parcours et renforcé mes compétenc
   
 </br>
 
----
-
-</br>
-
 >## Domaines de compétences
 
 🖥️ Administration Systèmes  
@@ -65,10 +62,6 @@ Markdown • Procédures • Documentation de projets
 
 </br>
 
----
-
-</br>
-
 >## Homelab
 Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
 
@@ -82,8 +75,6 @@ Documentation complète disponible dans le dossier :
 📁 [`Homelab`](https://github.com/NeoRootOps/Portfolio_NeoRoot/Homelab)
 
 </br>
-
----
 
 >## Projets
 Liste des projets techniques disponibles sur ce GitHub.
@@ -109,7 +100,7 @@ Chaque projet contient :
 - les tests  
 - les notes techniques
 
----
+</br>
 
 >## Scripts
 Scripts PowerShell et Bash utilisés dans mes environnements.
@@ -127,7 +118,7 @@ df -h | grep /dev/sda1
 
 Scripts complets disponibles dans **/Scripts**.
 
----
+</br>
 
 >## Objectifs & Roadmap
 - Approfondissement de l’automatisation PowerShell  
@@ -136,14 +127,14 @@ Scripts complets disponibles dans **/Scripts**.
 - Renforcement des compétences en sécurité  
 - Documentation complète de tous les services du homelab
 
----
+</br>
 
 >## Contact
 - LinkedIn  
 - Email professionnel  
 - Portfolio (si applicable)
 
----
+</br>
 
 >## Notes
 Ce GitHub est en évolution constante.  
