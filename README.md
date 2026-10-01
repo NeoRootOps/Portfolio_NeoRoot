@@ -42,7 +42,7 @@ Voici les formations qui ont structuré mon parcours et renforcé mes compétenc
 ---
 
 </br>
-
+#
 >## Domaines de compétences
 
 **Support, Ticketing & Prise en main à distance :**  
