@@ -100,7 +100,7 @@ Documentation complète disponible dans le dossier :
 >## Projets
 Liste des projets techniques disponibles sur ce GitHub.
 
->### Exemples :
+### Exemples :
 - **DHCP sous Debian**  
   Configuration complète, architecture, scripts, tests.
 
