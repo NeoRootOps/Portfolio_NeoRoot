@@ -14,6 +14,8 @@
 J'expérimente, documente et automatise différents projets techniques afin de développer mes compétences et partager mes réalisations.
 Ce GitHub reflète mon apprentissage continu à travers des projets concrets en systèmes, réseaux et cybersécurité.
 
+</br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Windows-005bbb?logo=windows&logoColor=white"/>&nbsp;
