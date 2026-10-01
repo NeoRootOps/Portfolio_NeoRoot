@@ -6,7 +6,7 @@
 </div>
 
 </br>
-
+</br>
 
 >## Présentation
 🔹 Homelab 🔹 Systèmes 🔹 Réseaux 🔹 Cybersécurité
@@ -23,6 +23,7 @@ Ce GitHub reflète mon apprentissage continu à travers des projets concrets en 
 </p>
 
 </br>
+</br>
 
 >## Formations & Certifications
 
@@ -38,6 +39,7 @@ Voici les formations qui ont structuré mon parcours et renforcé mes compétenc
   Comprendre les bonnes pratiques de sécurité et la gestion des risques cyber.
 
   
+</br>
 </br>
 
 >## Domaines de compétences
@@ -61,6 +63,7 @@ MDT • WDS • Nagios • Zabbix
 Markdown • Procédures • Documentation de projets
 
 </br>
+</br>
 
 >## Homelab
 Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
@@ -74,6 +77,7 @@ Architecture personnelle permettant de tester, déployer et documenter des envir
 Documentation complète disponible dans le dossier :
 📁 [`Homelab`](https://github.com/NeoRootOps/Portfolio_NeoRoot/Homelab)
 
+</br>
 </br>
 
 >## Projets
@@ -101,6 +105,7 @@ Chaque projet contient :
 - les notes techniques
 
 </br>
+</br>
 
 >## Scripts
 Scripts PowerShell et Bash utilisés dans mes environnements.
@@ -119,6 +124,7 @@ df -h | grep /dev/sda1
 Scripts complets disponibles dans **/Scripts**.
 
 </br>
+</br>
 
 >## Objectifs & Roadmap
 - Approfondissement de l’automatisation PowerShell  
@@ -127,6 +133,7 @@ Scripts complets disponibles dans **/Scripts**.
 - Renforcement des compétences en sécurité  
 - Documentation complète de tous les services du homelab
 
+</br>
 </br>
 
 >## Contact
