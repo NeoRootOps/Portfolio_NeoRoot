@@ -8,12 +8,10 @@
 </br>
 
 >## Présentation
-🔹 Homelab • Systèmes • Réseaux • Cybersécurité
+🔹 Homelab 🔹 Systèmes 🔹 Réseaux 🔹 Cybersécurité
 
-J'expérimente, documente et automatise différents projets techniques afin de développer mes compétences et partager mes réalisations.</br>
-<p align="center">
-<em><b>Mon objectif est de consolider mes acquis et de développer une expertise solide dans un domaine en évolution permanente.</b></em>
-</p>
+J'expérimente, documente et automatise différents projets techniques afin de développer mes compétences et partager mes réalisations.
+Ce GitHub reflète mon apprentissage continu à travers des projets concrets en systèmes, réseaux et cybersécurité.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white"/>&nbsp;
@@ -23,7 +21,6 @@ J'expérimente, documente et automatise différents projets techniques afin de d
 <img src="https://img.shields.io/badge/Zero%20Trust-red?logo=shield&logoColor=white"/>
 </p>
 
----
 </br>
 
 >## Formations & Certifications
