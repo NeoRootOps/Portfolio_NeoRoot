@@ -85,9 +85,7 @@ Documentation complète disponible dans le dossier :
 >## Projets
 Liste des projets techniques disponibles sur ce GitHub.
 
-### Exemples :
-- **DHCP sous Debian**  
-  Configuration complète, architecture, scripts, tests.
+- **Architecture Réseau Virtualisée**  
 
 - **Infrastructure multi‑VLAN**  
   Segmentation réseau, routage, supervision.
@@ -115,12 +113,14 @@ Scripts PowerShell et Bash utilisés dans mes environnements.
 ### PowerShell
 ```powershell
 Get-Process | Sort-Object CPU -Descending
+
 ```
 
 ### Bash
 ```bash
 #!/bin/bash
 df -h | grep /dev/sda1
+
 ```
 
 Scripts complets disponibles dans **/Scripts**.
