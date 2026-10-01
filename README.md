@@ -7,10 +7,8 @@
 
 </br>
 
-## Présentation
-Bonjour, méthodique et structuré, je m’attache à optimiser et documenter chaque projet technique sur lequel je travaille.
-Mon homelab me permet d’expérimenter, tester et renforcer mes compétences au quotidien, dans une démarche d’apprentissage continue.
-Ce GitHub regroupe mes projets, scripts et travaux personnels, reflet d’une progression constante et d’un intérêt marqué pour les environnements techniques. 
+>## Présentation
+Technicien Systèmes et Réseaux, je développe mes compétences au travers de projets personnels, d'automatisation et d'expérimentations en homelab. Ce GitHub centralise mes réalisations et ma progression technique.
 
 </br>
 
