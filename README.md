@@ -8,7 +8,9 @@
 </br>
 
 >## Présentation
-Technicien Systèmes et Réseaux, je développe mes compétences au travers de projets personnels, d'automatisation et d'expérimentations en homelab. Ce GitHub centralise mes réalisations et ma progression technique.
+🔹 Homelab • Systèmes • Réseaux • Cybersécurité
+
+J'expérimente, documente et automatise différents projets techniques afin de développer mes compétences et partager mes réalisations.
 
 </br>
 
