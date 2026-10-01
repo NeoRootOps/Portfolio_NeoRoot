@@ -123,15 +123,15 @@ Chaque projet contient :
 
 ---
 
-## Scripts
+>## Scripts
 Scripts PowerShell et Bash utilisés dans mes environnements.
 
-### PowerShell
+>### PowerShell
 ```powershell
 Get-Process | Sort-Object CPU -Descending
 ```
 
-### Bash
+>### Bash
 ```bash
 #!/bin/bash
 df -h | grep /dev/sda1
@@ -141,7 +141,7 @@ Scripts complets disponibles dans **/Scripts**.
 
 ---
 
-## Objectifs & Roadmap
+>## Objectifs & Roadmap
 - Approfondissement de l’automatisation PowerShell  
 - Mise en place d’un monitoring avancé  
 - Déploiement d’un cluster Proxmox  
@@ -150,7 +150,7 @@ Scripts complets disponibles dans **/Scripts**.
 
 ---
 
-## Contact
+>## Contact
 - LinkedIn  
 - Email professionnel  
 - Portfolio (si applicable)
