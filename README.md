@@ -40,7 +40,6 @@ Voici les formations qui ont structuré mon parcours et renforcé mes compétenc
 </br>
 
 ---
-# 
 
 </br>
 
