@@ -27,7 +27,7 @@ Technicien Systèmes et Réseaux, je développe mes compétences au travers de p
 ---
 </br>
 
-## Formations & Certifications
+>## Formations & Certifications
 
 Voici les formations qui ont structuré mon parcours et renforcé mes compétences techniques :
 
@@ -47,7 +47,7 @@ Voici les formations qui ont structuré mon parcours et renforcé mes compétenc
 
 </br>
 
-## Domaines de compétences
+>## Domaines de compétences
 
 **Support, Ticketing & Prise en main à distance :**  
 GLPI • OCS Inventory • Gestion des incidents (SLA)  
@@ -81,7 +81,7 @@ Markdown structuré • Word • Powerpoint • PDF
 
 </br>
 
-## Homelab
+>## Homelab
 Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
 
 ### Contenu du homelab :
@@ -97,10 +97,10 @@ Documentation complète disponible dans le dossier :
 
 ---
 
-## Projets
+>## Projets
 Liste des projets techniques disponibles sur ce GitHub.
 
-### Exemples :
+>### Exemples :
 - **DHCP sous Debian**  
   Configuration complète, architecture, scripts, tests.
 
