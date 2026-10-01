@@ -126,12 +126,12 @@ Chaque projet contient :
 >## Scripts
 Scripts PowerShell et Bash utilisés dans mes environnements.
 
->### PowerShell
+### PowerShell
 ```powershell
 Get-Process | Sort-Object CPU -Descending
 ```
 
->### Bash
+### Bash
 ```bash
 #!/bin/bash
 df -h | grep /dev/sda1
