@@ -53,10 +53,10 @@
 ---
 
 ## Interprétation rapide
-- **Physique NOK** → câble / Wi-Fi / carte réseau  
-- **Liaison NOK** → switch / ARP / MAC  
-- **Réseau NOK** → IP / passerelle / DHCP  
-- **Transport NOK** → ports / pare-feu / NAT  
-- **Session NOK** → VPN / SSH / timeout  
-- **Présentation NOK** → certificat / encodage  
-- **Application NOK** → DNS / proxy / serveur distant
+- **Physique** → câble / Wi-Fi / carte réseau  
+- **Liaison** → switch / ARP / MAC  
+- **Réseau** → IP / passerelle / DHCP  
+- **Transport** → ports / pare-feu / NAT  
+- **Session** → VPN / SSH / timeout  
+- **Présentation** → certificat / encodage  
+- **Application** → DNS / proxy / serveur distant
