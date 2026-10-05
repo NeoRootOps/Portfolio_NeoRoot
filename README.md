@@ -1,13 +1,10 @@
 <Div align="center">
   
-# Projets
+# Liste des projets disponibles sur ce GitHub.
 
 </Div>
 
 </br>
-</br>
-
-### Liste des projets techniques disponibles sur ce GitHub.
 
 - **Architecture Réseau Virtualisée**  
 
@@ -71,20 +68,13 @@ Scripts complets disponibles dans le dossier :
 </br>
 
 ## Objectifs & Roadmap
-- Approfondissement de l’automatisation PowerShell  
-- Mise en place d’un monitoring avancé  
-- Déploiement d’un cluster Proxmox  
-- Renforcement des compétences en sécurité  
-- Documentation complète de tous les services du homelab
+>- Approfondissement de l’automatisation PowerShell  
+>- Mise en place d’un monitoring avancé  
+>- Déploiement d’un cluster Proxmox  
+>- Renforcement des compétences en sécurité  
+>- Documentation complète de tous les services du homelab
 
 </br>
-</br>
-
-## Contact
-- LinkedIn  
-- Email professionnel  
-- Portfolio (si applicable)
-
 </br>
 
 ## Notes
