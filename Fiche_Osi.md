@@ -1,18 +1,27 @@
-# 📦 FICHE DE DIAGNOSTIC RÉSEAU – MODÈLE OSI (PLRTSPA)
+<Div align="center">
+  
+# 📦 FICHE DE DIAGNOSTIC RÉSEAU – MODÈLE OSI
+
+</Div>
 
 </br>
 
-| Couche        | Vérifications essentielles                                                                  | Commandes / Outils                                    | Statut  |
-|---------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------|---------|
-| Physique (P)  | Câble branché, Wi-Fi actif, LED allumées, carte réseau OK                                   | Vérification visuelle / Gestionnaire de périphériques |   ☐     |
-| Liaison (L)   | MAC présente, carte reconnue, table ARP cohérente                                           | `arp -a`                                              |   ☐     |
-| Réseau (R)    | IP valide, ping local, ping passerelle, ping Internet, routes OK                            | `ipconfig` / `ip a` / `ping` / `tracert` / `route`    |   ☐     |
-| Transport (T) | Ports TCP/UDP ouverts, test de port                                                         | `Test-NetConnection` / `nc -zv`                       |   ☐     |
-| Session (S)   | Session VPN/SSH active, pas de timeout                                                      | `openvpn` / `ssh`                                     |   ☐     |
-| Présentation (P) | Certificat SSL/TLS valide, encodage correct (UTF‑8, JSON, HTML)                          | Navigateur / `openssl`                                |   ☐     |
-| Application (A)  | DNS OK, service web/app fonctionnel, pas de proxy incorrect                              | `nslookup` / `dig` / `curl` / navigateur              |   ☐     |
+| Couche         | Vérifications essentielles                                                                  | Commandes / Outils                                    |
+|----------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| **P**hysique   | Câble branché, Wi-Fi actif, LED allumées, carte réseau OK                                   | Vérification visuelle / Gestionnaire de périphériques |
+| **L**iaison    | MAC présente, carte reconnue, table ARP cohérente                                           | `arp -a`                                              |
+| **R**éseau     | IP valide, ping local, ping passerelle, ping Internet, routes OK                            | `ipconfig` / `ip a` / `ping` / `tracert` / `route`    |
+| **T**ransport  | Ports TCP/UDP ouverts, test de port                                                         | `Test-NetConnection` / `nc -zv`                       |
+| **S**ession    | Session VPN/SSH active, pas de timeout                                                      | `openvpn` / `ssh`                                     |
+| **P**résentation  | Certificat SSL/TLS valide, encodage correct (UTF‑8, JSON, HTML)                          | Navigateur / `openssl`                                |
+| **A**pplication   | DNS OK, service web/app fonctionnel, pas de proxy incorrect                              | `nslookup` / `dig` / `curl` / navigateur              |
+
+ - **P**our **L**a **R**oute **T**u **S**uis **P**ierre **A**ntoine - **(PLRTSPA)**
 
 ---
+
+</br>
+</br>
 
 ## 1. Physique (P)
 - Vérifier câble Ethernet, LED vert/orange, ports actifs.
