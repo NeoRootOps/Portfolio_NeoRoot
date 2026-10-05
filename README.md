@@ -1,26 +1,7 @@
-
-## Homelab
-Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
-
-### Contenu du homelab :
-- Virtualisation : Proxmox VE
-- Serveurs : Windows Server 2022 (DHCP, DNS)
-- Serveur de fichiers et de stockage  
-- Services réseau : PfSense (VLAN 802.1Q, DHCP Relay)
-
-Documentation complète disponible dans le dossier :
->📁 [`Homelab`](https://github.com/NeoRootOps/Portfolio_NeoRoot/Homelab)
-
-</br>
-</br>
-
 ## Projets
 Liste des projets techniques disponibles sur ce GitHub.
 
 - **Architecture Réseau Virtualisée**  
-
-- **Infrastructure multi‑VLAN**  
-  Segmentation réseau, routage, supervision.
 
 - **Scripts PowerShell d’administration**  
   Automatisation de tâches courantes, gestion des services, monitoring local.
@@ -35,6 +16,23 @@ Chaque projet contient :
 - les fichiers de configuration  
 - les tests  
 - les notes techniques
+
+</br>
+</br>
+
+## Homelab
+Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
+
+### Contenu du homelab :
+- Virtualisation : Proxmox VE
+- Serveurs : Windows Server 2022 (DHCP, DNS)
+- Serveur de fichiers et de stockage  
+- Services réseau : PfSense (VLAN 802.1Q, DHCP Relay)
+
+</br>
+
+Documentation complète disponible dans le dossier :
+>📁 [`Homelab`](https://github.com/NeoRootOps/Portfolio_NeoRoot/Homelab)
 
 </br>
 </br>
@@ -55,7 +53,11 @@ df -h | grep /dev/sda1
 
 ```
 
-Scripts complets disponibles dans **/Scripts**.
+</br>
+
+Scripts complets disponibles dans le dossier :
+>📁 [`Scripts`](https://github.com/NeoRootOps/Portfolio_NeoRoot/Scripts)
+
 
 </br>
 </br>
