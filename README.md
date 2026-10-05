@@ -1,5 +1,5 @@
 
->## Homelab
+## Homelab
 Architecture personnelle permettant de tester, déployer et documenter des environnements techniques.
 
 ### Contenu du homelab :
@@ -9,12 +9,12 @@ Architecture personnelle permettant de tester, déployer et documenter des envir
 - Services réseau : PfSense (VLAN 802.1Q, DHCP Relay)
 
 Documentation complète disponible dans le dossier :
-📁 [`Homelab`](https://github.com/NeoRootOps/Portfolio_NeoRoot/Homelab)
+>📁 [`Homelab`](https://github.com/NeoRootOps/Portfolio_NeoRoot/Homelab)
 
 </br>
 </br>
 
->## Projets
+## Projets
 Liste des projets techniques disponibles sur ce GitHub.
 
 - **Architecture Réseau Virtualisée**  
@@ -39,7 +39,7 @@ Chaque projet contient :
 </br>
 </br>
 
->## Scripts
+## Scripts
 Scripts PowerShell et Bash utilisés dans mes environnements.
 
 ### PowerShell
@@ -60,7 +60,7 @@ Scripts complets disponibles dans **/Scripts**.
 </br>
 </br>
 
->## Objectifs & Roadmap
+## Objectifs & Roadmap
 - Approfondissement de l’automatisation PowerShell  
 - Mise en place d’un monitoring avancé  
 - Déploiement d’un cluster Proxmox  
@@ -70,13 +70,13 @@ Scripts complets disponibles dans **/Scripts**.
 </br>
 </br>
 
->## Contact
+## Contact
 - LinkedIn  
 - Email professionnel  
 - Portfolio (si applicable)
 
 </br>
 
->## Notes
-Ce GitHub est en évolution constante.  
-Chaque projet est documenté de manière claire, hiérarchisée et orientée production.
+## Notes
+>Ce GitHub est en évolution constante.  
+>Chaque projet est documenté de manière claire, hiérarchisée et orientée production.
